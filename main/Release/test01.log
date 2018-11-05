@@ -1,0 +1,61 @@
+﻿2015/09/22 14:58:12 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "G:\My Program\Visual C++ 2013\S研\マイクラみたい\main\test01.vcxproj" (Build ターゲット)。
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _MBCS /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Micralike.cpp
+         Micralike.cpp
+     1>g:\my program\visual c++ 2013\s研\マイクラみたい\main\Defines.h(113): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : 'fopen' の宣言を確認してください。
+     1>g:\my program\visual c++ 2013\s研\マイクラみたい\main\usefulheaders\KeyControl.h(23): warning C4101: 'ret' : ローカル変数は 1 度も使われていません。
+     1>g:\my program\visual c++ 2013\s研\マイクラみたい\main\usefulheaders\FileControl.h(100): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files\Microsoft Visual Studio 12.0\VC\include\string.h(112) : 'strcpy' の宣言を確認してください。
+     1>g:\my program\visual c++ 2013\s研\マイクラみたい\main\usefulheaders\FileControl.h(110): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : 'sprintf' の宣言を確認してください。
+     1>g:\my program\visual c++ 2013\s研\マイクラみたい\main\KeyConfig.h(111): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : 'fopen' の宣言を確認してください。
+     1>g:\my program\visual c++ 2013\s研\マイクラみたい\main\KeyConfig.h(156): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : 'fopen' の宣言を確認してください。
+     1>g:\my program\visual c++ 2013\s研\マイクラみたい\main\Atari_Hantei.h(108): warning C4101: 'k' : ローカル変数は 1 度も使われていません。
+     1>g:\my program\visual c++ 2013\s研\マイクラみたい\main\Atari_Hantei.h(150): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>g:\my program\visual c++ 2013\s研\マイクラみたい\main\Atari_Hantei.h(154): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>g:\my program\visual c++ 2013\s研\マイクラみたい\main\Atari_Hantei.h(155): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>g:\my program\visual c++ 2013\s研\マイクラみたい\main\mapmgr.h(16): warning C4101: 'ay' : ローカル変数は 1 度も使われていません。
+     1>g:\my program\visual c++ 2013\s研\マイクラみたい\main\mapmgr.h(16): warning C4101: 'ax' : ローカル変数は 1 度も使われていません。
+     1>g:\my program\visual c++ 2013\s研\マイクラみたい\main\mapmgr.h(16): warning C4101: 'ah' : ローカル変数は 1 度も使われていません。
+     1>g:\my program\visual c++ 2013\s研\マイクラみたい\main\mapmgr.h(95): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>g:\my program\visual c++ 2013\s研\マイクラみたい\main\mapmgr.h(96): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>g:\my program\visual c++ 2013\s研\マイクラみたい\main\mapmgr.h(97): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>g:\my program\visual c++ 2013\s研\マイクラみたい\main\mapmgr.h(215): warning C4101: 'j' : ローカル変数は 1 度も使われていません。
+     1>g:\my program\visual c++ 2013\s研\マイクラみたい\main\mapmgr.h(303): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : 'fopen' の宣言を確認してください。
+     1>g:\my program\visual c++ 2013\s研\マイクラみたい\main\mapmgr.h(394): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : 'fopen' の宣言を確認してください。
+     1>g:\my program\visual c++ 2013\s研\マイクラみたい\main\mapmgr.h(547): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : 'fopen' の宣言を確認してください。
+     1>g:\my program\visual c++ 2013\s研\マイクラみたい\main\mapmgr.h(616): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : 'fopen' の宣言を確認してください。
+     1>g:\my program\visual c++ 2013\s研\マイクラみたい\main\mapmgr.h(674): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : 'fopen' の宣言を確認してください。
+     1>g:\my program\visual c++ 2013\s研\マイクラみたい\main\mapmgr.h(872): warning C4102: 'settemp_brkpoint2' : ラベルは 1 度も参照されません。
+     1>g:\my program\visual c++ 2013\s研\マイクラみたい\main\mapmgr.h(997): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : 'fopen' の宣言を確認してください。
+     1>g:\my program\visual c++ 2013\s研\マイクラみたい\main\mapmgr.h(1014): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : 'fopen' の宣言を確認してください。
+     1>Micralike.cpp(48): warning C4101: 'MapT' : ローカル変数は 1 度も使われていません。
+     1>Micralike.cpp(16): warning C4101: 'i' : ローカル変数は 1 度も使われていません。
+     1>Micralike.cpp(35): warning C4101: 'filelist' : ローカル変数は 1 度も使われていません。
+     1>Micralike.cpp(36): warning C4101: 'spn' : ローカル変数は 1 度も使われていません。
+     1>Micralike.cpp(34): warning C4101: 'spdata' : ローカル変数は 1 度も使われていません。
+     1>Micralike.cpp(16): warning C4101: 'j' : ローカル変数は 1 度も使われていません。
+     1>Micralike.cpp(289): warning C4101: 'jikimy' : ローカル変数は 1 度も使われていません。
+     1>Micralike.cpp(289): warning C4101: 'jikimx' : ローカル変数は 1 度も使われていません。
+     1>Micralike.cpp(1241): warning C4101: 'k' : ローカル変数は 1 度も使われていません。
+     1>Micralike.cpp(1297): warning C4101: 'k' : ローカル変数は 1 度も使われていません。
+     1>Micralike.cpp(1332): warning C4101: 'i' : ローカル変数は 1 度も使われていません。
+       Link:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\My Program\Visual C++ 2013\S研\マイクラみたい\main\Release\test01.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\My Program\Visual C++ 2013\S研\マイクラみたい\main\Release\test01.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\My Program\Visual C++ 2013\S研\マイクラみたい\main\Release\test01.lib" /MACHINE:X86 /SAFESEH Release\Micralike.obj
+     1>LINK : fatal error LNK1104: ファイル 'DxDrawFunc.lib' を開くことができません。
+     1>プロジェクト "G:\My Program\Visual C++ 2013\S研\マイクラみたい\main\test01.vcxproj" (Build ターゲット) のビルドが終了しました -- 失敗。
+
+ビルドに失敗しました。
+
+経過時間 00:00:02.78

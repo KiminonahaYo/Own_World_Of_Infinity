@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="Defines.h">
+      <Filter>ソース</Filter>
+    </ClInclude>
+    <ClInclude Include="UsefulHeaders\useful.h">
+      <Filter>ソース</Filter>
+    </ClInclude>
+    <ClInclude Include="Micralike_set.h">
+      <Filter>ソース\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="UsefulHeaders\FileControl.h">
+      <Filter>ソース\Useful</Filter>
+    </ClInclude>
+    <ClInclude Include="UsefulHeaders\GetTimeForStd.h">
+      <Filter>ソース\Useful</Filter>
+    </ClInclude>
+    <ClInclude Include="UsefulHeaders\KeyControl.h">
+      <Filter>ソース\Useful</Filter>
+    </ClInclude>
+    <ClInclude Include="UsefulHeaders\ProgramControl_DxLib.h">
+      <Filter>ソース\Useful</Filter>
+    </ClInclude>
+    <ClInclude Include="UsefulHeaders\NoteControl.h">
+      <Filter>ソース\Useful</Filter>
+    </ClInclude>
+    <ClInclude Include="UsefulHeaders\Mystring.h">
+      <Filter>ソース\Useful</Filter>
+    </ClInclude>
+    <ClInclude Include="UsefulHeaders\MyMath.h">
+      <Filter>ソース\Useful</Filter>
+    </ClInclude>
+    <ClInclude Include="UsefulHeaders\MyColor.h">
+      <Filter>ソース\Useful</Filter>
+    </ClInclude>
+    <ClInclude Include="TimeOfGame.h">
+      <Filter>ソース\TimeOfGame</Filter>
+    </ClInclude>
+    <ClInclude Include="TimeOfGame_Set.h">
+      <Filter>ソース\TimeOfGame</Filter>
+    </ClInclude>
+    <ClInclude Include="MapManager_Set.h">
+      <Filter>ソース\MapManager</Filter>
+    </ClInclude>
+    <ClInclude Include="mapmgr.h">
+      <Filter>ソース\MapManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Masu.h">
+      <Filter>ソース</Filter>
+    </ClInclude>
+    <ClInclude Include="Atari_Hantei.h">
+      <Filter>ソース</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyConfig.h">
+      <Filter>ソース\KeyConfig</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyConfig_Set.h">
+      <Filter>ソース\KeyConfig</Filter>
+    </ClInclude>
+    <ClInclude Include="blockGetAndSet.h">
+      <Filter>ソース</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="ソース">
+      <UniqueIdentifier>{c6b4c14b-a5ac-4169-b01a-114b745eb8f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース\Main">
+      <UniqueIdentifier>{c0a25931-a965-4882-ac21-cd06fe28c502}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース\Useful">
+      <UniqueIdentifier>{a2cccef8-4577-4331-87d3-b2d39b12889e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース\TimeOfGame">
+      <UniqueIdentifier>{3ccc68e5-d510-4567-90d2-5cc3fdd89533}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース\MapManager">
+      <UniqueIdentifier>{b4649b13-864c-4530-ab8c-abbfd953f5ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース\KeyConfig">
+      <UniqueIdentifier>{19206438-1936-4a62-967f-309caaf1463f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Micralike.cpp">
+      <Filter>ソース\Main</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,61 @@
+﻿2017/11/14 22:55:17 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "P:\temps\LEXAR_USB\Programing_USB\Visual C++ 2013\2015\S研\マイクラみたい\main\test01.vcxproj" (Build ターゲット)。
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Micralike.cpp
+         Micralike.cpp
+     1>p:\temps\lexar_usb\programing_usb\visual c++ 2013\2015\s研\マイクラみたい\main\defines.h(113): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 12.0\vc\include\stdio.h(211) : 'fopen' の宣言を確認してください。
+     1>p:\temps\lexar_usb\programing_usb\visual c++ 2013\2015\s研\マイクラみたい\main\usefulheaders\keycontrol.h(23): warning C4101: 'ret' : ローカル変数は 1 度も使われていません。
+     1>p:\temps\lexar_usb\programing_usb\visual c++ 2013\2015\s研\マイクラみたい\main\usefulheaders\filecontrol.h(100): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 12.0\vc\include\string.h(112) : 'strcpy' の宣言を確認してください。
+     1>p:\temps\lexar_usb\programing_usb\visual c++ 2013\2015\s研\マイクラみたい\main\usefulheaders\filecontrol.h(110): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 12.0\vc\include\stdio.h(356) : 'sprintf' の宣言を確認してください。
+     1>p:\temps\lexar_usb\programing_usb\visual c++ 2013\2015\s研\マイクラみたい\main\keyconfig.h(115): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 12.0\vc\include\stdio.h(211) : 'fopen' の宣言を確認してください。
+     1>p:\temps\lexar_usb\programing_usb\visual c++ 2013\2015\s研\マイクラみたい\main\keyconfig.h(160): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 12.0\vc\include\stdio.h(211) : 'fopen' の宣言を確認してください。
+     1>p:\temps\lexar_usb\programing_usb\visual c++ 2013\2015\s研\マイクラみたい\main\atari_hantei.h(108): warning C4101: 'k' : ローカル変数は 1 度も使われていません。
+     1>p:\temps\lexar_usb\programing_usb\visual c++ 2013\2015\s研\マイクラみたい\main\atari_hantei.h(150): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>p:\temps\lexar_usb\programing_usb\visual c++ 2013\2015\s研\マイクラみたい\main\atari_hantei.h(154): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>p:\temps\lexar_usb\programing_usb\visual c++ 2013\2015\s研\マイクラみたい\main\atari_hantei.h(155): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>p:\temps\lexar_usb\programing_usb\visual c++ 2013\2015\s研\マイクラみたい\main\mapmgr.h(16): warning C4101: 'ay' : ローカル変数は 1 度も使われていません。
+     1>p:\temps\lexar_usb\programing_usb\visual c++ 2013\2015\s研\マイクラみたい\main\mapmgr.h(16): warning C4101: 'ax' : ローカル変数は 1 度も使われていません。
+     1>p:\temps\lexar_usb\programing_usb\visual c++ 2013\2015\s研\マイクラみたい\main\mapmgr.h(16): warning C4101: 'ah' : ローカル変数は 1 度も使われていません。
+     1>p:\temps\lexar_usb\programing_usb\visual c++ 2013\2015\s研\マイクラみたい\main\mapmgr.h(95): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>p:\temps\lexar_usb\programing_usb\visual c++ 2013\2015\s研\マイクラみたい\main\mapmgr.h(96): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>p:\temps\lexar_usb\programing_usb\visual c++ 2013\2015\s研\マイクラみたい\main\mapmgr.h(97): warning C4244: '=' : 'double' から 'float' への変換です。データが失われる可能性があります。
+     1>p:\temps\lexar_usb\programing_usb\visual c++ 2013\2015\s研\マイクラみたい\main\mapmgr.h(279): warning C4102: 'MakeMapCell_BrkPoint' : ラベルは 1 度も参照されません。
+     1>p:\temps\lexar_usb\programing_usb\visual c++ 2013\2015\s研\マイクラみたい\main\mapmgr.h(215): warning C4101: 'j' : ローカル変数は 1 度も使われていません。
+     1>p:\temps\lexar_usb\programing_usb\visual c++ 2013\2015\s研\マイクラみたい\main\mapmgr.h(306): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 12.0\vc\include\stdio.h(211) : 'fopen' の宣言を確認してください。
+     1>p:\temps\lexar_usb\programing_usb\visual c++ 2013\2015\s研\マイクラみたい\main\mapmgr.h(397): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 12.0\vc\include\stdio.h(211) : 'fopen' の宣言を確認してください。
+     1>p:\temps\lexar_usb\programing_usb\visual c++ 2013\2015\s研\マイクラみたい\main\mapmgr.h(550): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 12.0\vc\include\stdio.h(211) : 'fopen' の宣言を確認してください。
+     1>p:\temps\lexar_usb\programing_usb\visual c++ 2013\2015\s研\マイクラみたい\main\mapmgr.h(619): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 12.0\vc\include\stdio.h(211) : 'fopen' の宣言を確認してください。
+     1>p:\temps\lexar_usb\programing_usb\visual c++ 2013\2015\s研\マイクラみたい\main\mapmgr.h(677): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 12.0\vc\include\stdio.h(211) : 'fopen' の宣言を確認してください。
+     1>p:\temps\lexar_usb\programing_usb\visual c++ 2013\2015\s研\マイクラみたい\main\mapmgr.h(875): warning C4102: 'settemp_brkpoint2' : ラベルは 1 度も参照されません。
+     1>p:\temps\lexar_usb\programing_usb\visual c++ 2013\2015\s研\マイクラみたい\main\mapmgr.h(1000): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 12.0\vc\include\stdio.h(211) : 'fopen' の宣言を確認してください。
+     1>p:\temps\lexar_usb\programing_usb\visual c++ 2013\2015\s研\マイクラみたい\main\mapmgr.h(1017): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 12.0\vc\include\stdio.h(211) : 'fopen' の宣言を確認してください。
+     1>p:\temps\lexar_usb\programing_usb\visual c++ 2013\2015\s研\マイクラみたい\main\micralike.cpp(48): warning C4101: 'MapT' : ローカル変数は 1 度も使われていません。
+     1>p:\temps\lexar_usb\programing_usb\visual c++ 2013\2015\s研\マイクラみたい\main\micralike.cpp(35): warning C4101: 'filelist' : ローカル変数は 1 度も使われていません。
+     1>p:\temps\lexar_usb\programing_usb\visual c++ 2013\2015\s研\マイクラみたい\main\micralike.cpp(36): warning C4101: 'spn' : ローカル変数は 1 度も使われていません。
+     1>p:\temps\lexar_usb\programing_usb\visual c++ 2013\2015\s研\マイクラみたい\main\micralike.cpp(34): warning C4101: 'spdata' : ローカル変数は 1 度も使われていません。
+     1>p:\temps\lexar_usb\programing_usb\visual c++ 2013\2015\s研\マイクラみたい\main\micralike.cpp(16): warning C4101: 'j' : ローカル変数は 1 度も使われていません。
+     1>p:\temps\lexar_usb\programing_usb\visual c++ 2013\2015\s研\マイクラみたい\main\micralike.cpp(306): warning C4101: 'jikimy' : ローカル変数は 1 度も使われていません。
+     1>p:\temps\lexar_usb\programing_usb\visual c++ 2013\2015\s研\マイクラみたい\main\micralike.cpp(306): warning C4101: 'jikimx' : ローカル変数は 1 度も使われていません。
+     1>p:\temps\lexar_usb\programing_usb\visual c++ 2013\2015\s研\マイクラみたい\main\micralike.cpp(1287): warning C4101: 'k' : ローカル変数は 1 度も使われていません。
+     1>p:\temps\lexar_usb\programing_usb\visual c++ 2013\2015\s研\マイクラみたい\main\micralike.cpp(1344): warning C4101: 'k' : ローカル変数は 1 度も使われていません。
+     1>p:\temps\lexar_usb\programing_usb\visual c++ 2013\2015\s研\マイクラみたい\main\micralike.cpp(1379): warning C4101: 'i' : ローカル変数は 1 度も使われていません。
+       Link:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"P:\temps\LEXAR_USB\Programing_USB\Visual C++ 2013\2015\S研\マイクラみたい\main\Debug\test01.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"P:\temps\LEXAR_USB\Programing_USB\Visual C++ 2013\2015\S研\マイクラみたい\main\Debug\test01.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"P:\temps\LEXAR_USB\Programing_USB\Visual C++ 2013\2015\S研\マイクラみたい\main\Debug\test01.lib" /MACHINE:X86 /SAFESEH:NO Debug\Micralike.obj
+         test01.vcxproj -> P:\temps\LEXAR_USB\Programing_USB\Visual C++ 2013\2015\S研\マイクラみたい\main\Debug\test01.exe
+     1>プロジェクト "P:\temps\LEXAR_USB\Programing_USB\Visual C++ 2013\2015\S研\マイクラみたい\main\test01.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:14.21
